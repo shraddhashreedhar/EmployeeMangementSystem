@@ -5,12 +5,19 @@ The website contains a home page which provides an overview of the services offe
 Highlights of the Project:
 
 •	There is a welcome page for the website which contains a navigation bar consisting of home, contact us, about, employee login and internship.
+
 •	In the employee login page, employee with his email and password logs in and gets access to his profile and can apply for leave.
+
 •	Another feature of this project is the Leave Application System. The main objective of this feature is to enable for the employees to apply for leave online rather than     submitting a form and waiting for the manager to confirm it offline.
+
 •	Therefore the employee has an online form where he can apply for leave and not worry about the disadvantages occurred in offline system as long there is good internet connection.
+
 •	Employee can view their details such as employee id,password etc
+
 •	But the employee cannot edit any details hence admin is the one who can create, edit, and delete the employee’s details. 
+
 •	 There is admin page where only the admin has the key to access it. Only the admin knows the username and password. Admin is responsible for the editing, deleting and inserting the employee details. Admin also gets the details of the leave application that is the list of employees who applied for leave.
+
 •	Also, there is Internship page where in if any student wants to apply for internship in the company, they can visit the page and apply for it. The admin gets the details of the students who have applied for internships in the company.
 
 
