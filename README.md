@@ -20,5 +20,36 @@ Highlights of the Project:
 
 •	Also, there is Internship page where in if any student wants to apply for internship in the company, they can visit the page and apply for it. The admin gets the details of the students who have applied for internships in the company.
 
+Screenshots:
+## Home Page
+![image](https://user-images.githubusercontent.com/67771916/92494834-cb758b00-f213-11ea-901a-34d94f437e73.png)
+
+## About Page
+![image](https://user-images.githubusercontent.com/67771916/92494932-eb0cb380-f213-11ea-831c-ffdd44b106ea.png)
+
+## Services Page
+![image](https://user-images.githubusercontent.com/67771916/92494992-ff50b080-f213-11ea-8967-e3e0948c49aa.png)
+
+## Contact Us Page
+![image](https://user-images.githubusercontent.com/67771916/92495060-14c5da80-f214-11ea-8d94-544f6cfdb2c1.png)
+
+## Employee Login
+![image](https://user-images.githubusercontent.com/67771916/92495117-260ee700-f214-11ea-8cb6-12a54cec44ef.png)
+
+## Employee Dashboard
+![image](https://user-images.githubusercontent.com/67771916/92495167-3626c680-f214-11ea-8525-c46506ee363b.png)
+
+## Leave Application Page
+![image](https://user-images.githubusercontent.com/67771916/92495214-46d73c80-f214-11ea-9c30-f1b454d7b9f2.png)
+
+## Add Employee Page
+![image](https://user-images.githubusercontent.com/67771916/92495267-5787b280-f214-11ea-8db0-6dba8bb8cce0.png)
+
+## View Employee Details
+![image](https://user-images.githubusercontent.com/67771916/92495324-653d3800-f214-11ea-8175-7bcbea028e38.png)
+
+## View Leave Application
+![image](https://user-images.githubusercontent.com/67771916/92495380-771edb00-f214-11ea-9e6c-074a38c0ffbf.png)
+
 
 
